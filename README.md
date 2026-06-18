@@ -36,7 +36,7 @@ This project aimed to answer the following business questions:
 
 ## Employee Attrition Dashboard
 
-![Employee Attrition Dashboard](Attrition DashBoard.png)
+![Employee Attrition Dashboard](attrition_dashboard.png)
 
 ## Attrition Insights & Executive Summary
 
