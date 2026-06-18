@@ -48,7 +48,7 @@ This project aimed to answer the following business questions:
 
 ## Workforce Planning Insights & Executive Summary
 
-![Workforce Planning Insights](Work Force Insights.png)
+![Workforce Planning Insights](workforce_insights.png)
 
 ---
 
