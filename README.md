@@ -40,7 +40,7 @@ This project aimed to answer the following business questions:
 
 ## Attrition Insights & Executive Summary
 
-![Attrition Insights](Attrition Insights.png)
+![Attrition Insights](attrition_insights.png)
 
 ## Employee Retention & Workforce Planning Dashboard
 
