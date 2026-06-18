@@ -44,11 +44,11 @@ This project aimed to answer the following business questions:
 
 ## Employee Retention & Workforce Planning Dashboard
 
-![Workforce Planning](retention_dashboard.png)
+![Workforce Planning](Work Force Dashboard.png)
 
 ## Workforce Planning Insights & Executive Summary
 
-![Workforce Planning Insights](retention_insights.png)
+![Workforce Planning Insights](Work Force Insights.png)
 
 ---
 
