@@ -165,4 +165,5 @@ JNTU Kakinada School of Management Studies
 
 ### Internship
 
-SkillCraft Technology – Data Analytics Internship
+CodeAlpha - Power Bi Internship
+
